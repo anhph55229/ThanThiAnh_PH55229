@@ -36,4 +36,6 @@ public class testSoNguyen {
         int act = soNguyen.SoNguyen(new int[]{-2,-4,-8,-10});
         Assertions.assertEquals(exp,act);
     }
+
+
 }
